@@ -19,15 +19,15 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 
-/* v0.0 - Demo only version
+/* v1.0 - First version of the full app
+ * 
+ * 	In Progress - working to convert from demo to full
  *  Only Excellence trail codes available
  *  No database connection 
  *  Only works if codes are scanned in this order, either forward or backwards ExceEnt <-> L21 <-> L20 <-> L18 <-> DepeEnt
  *   (no running back and forth scanning codes for bonus points ;)
  *  
  *  Doesn't display distance yet
- *  
- *  Need: assistance with displaying items
  */
 
 class DistanceManager {
